@@ -824,22 +824,6 @@ This repo contains all of the custom fonts for the MiSTer FPGA project. You can 
 ![Misc_Cheepicus](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Cheepicus.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Cheepicus.pf)
 ***
-### Misc_CHEVYRAY-Pinch
-![Misc_CHEVYRAY-Pinch](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Pinch.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Pinch.pf)
-***
-### Misc_CHEVYRAY-Skullboy
-![Misc_CHEVYRAY-Skullboy](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Skullboy.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Skullboy.pf)
-***
-### Misc_CHEVYRAY-Softsquare
-![Misc_CHEVYRAY-Softsquare](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Softsquare.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Softsquare.pf)
-***
-### Misc_CHEVYRAY-Vector
-![Misc_CHEVYRAY-Vector](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_CHEVYRAY-Vector.png)<br />
-[Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_CHEVYRAY-Vector.pf)
-***
 ### Misc_Chicago-Mono
 ![Misc_Chicago-Mono](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/preview2/Misc_Chicago-Mono.png)<br />
 [Download](https://github.com/MiSTer-devel/Fonts_MiSTer/raw/master/Misc_Chicago-Mono.pf)
